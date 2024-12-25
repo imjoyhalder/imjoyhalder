@@ -7,7 +7,7 @@ I'm a dedicated learner with expertise in C, C++, Python, and web basics like HT
 
 Skills: C / C++ / Python / DSA / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Facebook.  
 - 🌱 I’m currently learning DSA and C++ 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Competitive Programming  
