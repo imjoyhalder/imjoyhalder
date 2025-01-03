@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Joy
 #### Python developer || Competitive Programmer
-![Python developer || Competitive Programmer](https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/471227254_1054301696590510_6180161048951698959_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHLA3I4_VP7G_7iUQgzoS29C5YVXRh45W0LlhVdGHjlbRWv_G6CfeTCTpIJ94u5c0oJBZjdxlOPR_sT8DQyKlFS&_nc_ohc=2EWqhf7K5nAQ7kNvgHtlTWE&_nc_zt=23&_nc_ht=scontent.fjsr17-1.fna&_nc_gid=AKqDVIcFIZTy6Wa4borFtQE&oh=00_AYBZvZqdfbTID5uHCtgdxk7j9SDrNaywv1UOjSXrdlSC_g&oe=6770BD29)
+![Python developer || Competitive Programmer]()
 
 💻 Passionate Programmer | Aspiring Problem Solver | Tech Enthusiast
 I'm a dedicated learner with expertise in C, C++, Python, and web basics like HTML and CSS. My focus is currently on mastering C++ and diving deep into Data Structures and Algorithms (DSA) to sharpen my problem-solving skills.
