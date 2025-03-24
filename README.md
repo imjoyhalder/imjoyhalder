@@ -30,7 +30,6 @@ I am a **Backend Developer** from **Bangladesh**, dedicated to building scalable
 <p align="center">
   <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
 </p>
 
 ### ⚙️ Programming Languages  
