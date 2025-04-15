@@ -87,7 +87,7 @@ I participate in various online coding platforms to refine my problem-solving sk
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imjoyhalder&theme=radical" alt="GitHub Streak" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=imjoyhalder&theme=radical&hide_border=false" alt="GitHub Streak" width="80%" />
 </div>
 
 
