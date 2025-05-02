@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/imjoyhalder/imjoyhalder/blob/main/githubBanner.jpg)  
+![Profile Banner](https://i.ibb.co.com/27TG4s22/JOY-HALDER-2.png)  
 
 <h1 align="center">Hey 👋, I'm Joy Halder | Backend Developer</h1>  
 <h3 align="center">🚀 Passionate Backend Developer | Problem Solver | Tech Enthusiast</h3>  
