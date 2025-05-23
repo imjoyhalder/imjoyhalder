@@ -35,8 +35,8 @@ I'm a **Full-Stack Developer** from **Bangladesh**, building scalable, secure, a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://jwt.io/img/pic_logo.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://logowik.com/content/uploads/images/express-js1720895493.logowik.com.webp?style=for-the-badge&logo=express&logoColor=white" width="50" height="50"/>
+  <img src="https://jwt.io/img/pic_logo.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white"  width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
