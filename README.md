@@ -6,9 +6,6 @@
 <h3 align="center">Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:joyhalder00113355@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
   <a href="https://codeforces.com/profile/JoyHalder">
     <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
