@@ -9,9 +9,6 @@
   <a href="https://codeforces.com/profile/JoyHalder">
     <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://codechef.com/users/joyhalder">
-    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
   <a href="https://leetcode.com/AB_JOY/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
@@ -25,7 +22,7 @@
 - 🧑‍💻 **Full-Stack Developer** passionate about building scalable, secure, and efficient applications
 - 💬 Languages: **C++**, **Python**, **JavaScript**
 - 🥇 Strong in DSA & problem solving (**700+ problems** solved across platforms)
-- 🚩 Competitive Programming: **2★ CodeChef**, Max Rating **1045** on Codeforces
+- 🚩 Competitive Programming: Max Rating **1045** on Codeforces
 - 🛠️ Working with: **Node.js**, **Express.js**, **MongoDB**, **MySQL**
 - 📚 Currently learning: **Next.js**, **API Development**, **Microservices**
 - ☁️ Interested in: **AI**, **ML**, **Cyber Security**
