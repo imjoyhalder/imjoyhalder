@@ -26,6 +26,7 @@
 - 💬 Languages: **C++**, **Python**, **JavaScript**
 - 🥇 Strong in DSA & problem solving (**700+ problems** solved across platforms)
 - 🚩 Competitive Programming: Max Rating **1045** on Codeforces
+- 🧠 5⭐ Badge in **Python** on [HackerRank](https://www.hackerrank.com/profile/joyhalder0011331)
 - 🛠️ Working with: **Node.js**, **Express.js**, **MongoDB**, **MySQL**
 - 📚 Currently learning: **Next.js**, **API Development**, **Microservices**
 - ☁️ Interested in: **AI**, **ML**, **Cyber Security**
