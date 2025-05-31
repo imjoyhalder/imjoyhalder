@@ -12,6 +12,9 @@
   <a href="https://leetcode.com/AB_JOY/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/joyhalder0011331">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
 </p>
 
 ---
@@ -41,8 +44,8 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://logowik.com/content/uploads/images/express-js1720895493.logowik.com.webp?style=for-the-badge&logo=express&logoColor=white" width="50" height="50"/>
-  <img src="https://jwt.io/img/pic_logo.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white"  width="40" height="40"/>
+  <img src="https://logowik.com/content/uploads/images/express-js1720895493.logowik.com.webp" width="50" height="50"/>
+  <img src="https://jwt.io/img/pic_logo.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
@@ -57,8 +60,8 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/JoyHalder"><img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=flat-square&logo=codeforces" /></a>
-  <a href="https://codechef.com/users/joyhalder"><img src="https://img.shields.io/badge/CodeChef-Profile-brightgreen?style=flat-square&logo=codechef" /></a>
   <a href="https://leetcode.com/AB_JOY/"><img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode" /></a>
+  <a href="https://www.hackerrank.com/profile/joyhalder0011331"><img src="https://img.shields.io/badge/HackerRank-Profile-success?style=flat-square&logo=hackerrank" /></a>
 </p>
 
 ---
@@ -79,6 +82,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imjoyhalder&theme=github-dark" />
 </div>
+
 ---
 
 <p align="center">
