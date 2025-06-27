@@ -73,7 +73,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=imjoyhalder&show_icons=true&theme=dark" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjoyhalder&layout=compact&theme=dark" width="48%" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=imjoyhalder&theme=dark" width="80%" />
+<!--   <img src="https://streak-stats.demolab.com?user=imjoyhalder&theme=dark" width="80%" /> -->
+  <div align="center">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=imjoyhalder&theme=radical" alt="GitHub Streak" style="display: inline-block; width: 90%;" />
+  </div>
 </div>
 
 ---
