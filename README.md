@@ -6,7 +6,7 @@
 <h3 align="center">Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/JoyHalder">
+  <a href="https://codeforces.com/profile/JoyHalder" target='_blank'>
     <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg?style=for-the-badge&logo=codeforces&logoColor=white" width="55" alt="Codeforces"/>
   </a>
   <a href="https://leetcode.com/AB_JOY/">
