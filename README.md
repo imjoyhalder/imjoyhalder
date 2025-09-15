@@ -7,32 +7,19 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/JoyHalder">
-    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg?style=for-the-badge&logo=codeforces&logoColor=white" width="55" alt="Codeforces"/>
   </a>
   <a href="https://leetcode.com/AB_JOY/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png?style=for-the-badge&logo=leetcode&logoColor=black" width="55" alt="LeetCode"/>
   </a>
   <a href="https://www.hackerrank.com/profile/joyhalder0011331">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png?style=for-the-badge&logo=hackerrank&logoColor=white" width="55" alt="HackerRank"/>
   </a>
 </p>
 
----
 
-## 👨‍💻 About Me
 
-- 🌍 Based in **Bangladesh**
-- 🧑‍💻 **Full-Stack Developer** passionate about building scalable, secure, and efficient applications
-- 💬 Languages: **C++**, **Python**, **JavaScript**
-- 🥇 Strong in DSA & problem solving (**700+ problems** solved across platforms)
-- 🚩 Competitive Programming: Max Rating **1045** on Codeforces
-- 🧠 5⭐ Badge in **Python** on [HackerRank](https://www.hackerrank.com/profile/joyhalder0011331)
-- 🛠️ Working with: **Node.js**, **Express.js**, **MongoDB**, **MySQL**
-- 📚 Currently learning: **Next.js**, **API Development**, **Microservices**
-- ☁️ Interested in: **AI**, **ML**, **Cyber Security**
-- 📮 Reach me: joyhalder00113355@gmail.com
-
----
+Full-Stack Developer passionate about building scalable, secure, and efficient applications, skilled in C++, Python, and JavaScript with 700+ DSA problems solved and a Codeforces max rating of 1045, holding a 5⭐ Python badge on HackerRank, experienced in Node.js, Express.js, MongoDB, and MySQL, currently learning Next.js, API Development, and Microservices, with strong interests in AI, Machine Learning, and Cyber Security, reachable at joyhalder00113355@gmail.com
 
 ## 🚀 Tech Stack
 
@@ -57,15 +44,6 @@
 
 ---
 
-## 🏆 Competitive Programming
-
-<p align="center">
-  <a href="https://codeforces.com/profile/JoyHalder"><img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=flat-square&logo=codeforces" /></a>
-  <a href="https://leetcode.com/AB_JOY/"><img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode" /></a>
-  <a href="https://www.hackerrank.com/profile/joyhalder0011331"><img src="https://img.shields.io/badge/HackerRank-Profile-success?style=flat-square&logo=hackerrank" /></a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
