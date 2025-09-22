@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/JoyHalder" target='_blank'>
-    <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg?style=for-the-badge&logo=codeforces&logoColor=white" width="55" alt="Codeforces"/>
+    <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg?style=for-the-badge&logo=codeforces&logoColor=white" width="50" alt="Codeforces"/>
   </a>
   <a href="https://leetcode.com/AB_JOY/">
     <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png?style=for-the-badge&logo=leetcode&logoColor=black" width="55" alt="LeetCode"/>
