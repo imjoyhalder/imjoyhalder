@@ -19,7 +19,7 @@
 
 
 
-Full-Stack Developer passionate about building scalable, secure, and efficient applications, skilled in C++, Python, and JavaScript with 700+ DSA problems solved and a Codeforces max rating of 1045, holding a 5⭐ Python badge on HackerRank, experienced in Node.js, Express.js, MongoDB, and MySQL, currently learning Next.js, API Development, and Microservices, with strong interests in AI, Machine Learning, and Cyber Security, reachable at joyhalder00113355@gmail.com
+Full-Stack Developer passionate about building scalable, secure, and efficient applications, skilled in C++, Python, and JavaScript with 700+ DSA problems solved and a Codeforces max rating of 1045, holding a 5⭐ Python badge on HackerRank, experienced in Node.js, Express.js, MongoDB, and MySQL, currently learning Next.js, API Development, and Microservices, with strong interests in AI, Machine Learning, and Cyber Security, reachable at joyhalder00113355@gmail.com 
 
 ## 🚀 Tech Stack
 
@@ -68,5 +68,5 @@ Full-Stack Developer passionate about building scalable, secure, and efficient a
 ---
 
 <p align="center">
-  <b>Let's connect and build something amazing! 🚀</b>
+  <b>Let's connect and build something amazing! 🚀🚀</b>
 </p>
