@@ -19,7 +19,7 @@
 
 
 
-Full-Stack Developer passionate about building scalable, secure, and efficient applications, skilled in C++, Python, and JavaScript with 700+ DSA problems solved and a Codeforces max rating of 1045, experienced in Node.js, Express.js, MongoDB, and MySQL, currently learning Next.js, API Development, and Microservices, with strong interests in AI, Machine Learning, and Cyber Security, reachable at joyhalder00113355@gmail.com 
+I’m a dedicated Full Stack Developer specializing in the **MERN stack**, skilled in **React**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**. I build scalable, secure, and high-performance applications using **Firebase**, **JWT**, **TypeScript**, **Tailwind CSS**, and **JavaScript**. With a solid foundation in **C++**, **Python**, and **DSA**, I write clean, efficient code and enjoy tackling complex technical challenges. I focus on creating robust backend systems, responsive interfaces, and real-time features with clean architecture. I’m always learning, exploring new technologies, and contributing to impactful projects to grow as a software engineer and deliver powerful, user-centric solutions.
 
 <h1 align="center">TECH STACK</h1>
 
