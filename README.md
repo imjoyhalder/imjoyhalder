@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/27TG4s22/JOY-HALDER-2.png" alt="Joy Halder Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm <span style="color:#e95420;">Joy Halder</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
+<h1 align="center">Hi there, I'm <span style="color:#e95420;">JOY HALDER</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 <h3 align="center">Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
@@ -21,29 +21,38 @@
 
 Full-Stack Developer passionate about building scalable, secure, and efficient applications, skilled in C++, Python, and JavaScript with 700+ DSA problems solved and a Codeforces max rating of 1045, experienced in Node.js, Express.js, MongoDB, and MySQL, currently learning Next.js, API Development, and Microservices, with strong interests in AI, Machine Learning, and Cyber Security, reachable at joyhalder00113355@gmail.com 
 
-## 🚀 Tech Stack
+<h1 align="center">TECH STACK</h1>
 
+<!-- Frontend -->
+<div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://logowik.com/content/uploads/images/express-js1720895493.logowik.com.webp" width="50" height="50"/>
-  <img src="https://jwt.io/img/pic_logo.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" style="background-color: black; border-radius: 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux" height="45" />
 </p>
+</div>
 
----
 
+<!-- Backend -->
+<div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="45" />
+</p>
+</div>
+
+
+<!-- Programming Languages -->
+<div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts" height="45" />
+</p>
+</div>
+
+
+<!-- Tools & Others -->
+<div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,netlify" height="45" />
+</p>
+</div>
 
 ## 📊 GitHub Stats
 
