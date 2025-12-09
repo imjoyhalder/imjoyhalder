@@ -34,7 +34,7 @@ I’m a dedicated Full Stack Developer specializing in the **MERN stack**, skill
 <!-- Backend -->
 <div>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="45" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" height="45" />
 </p>
 </div>
 
