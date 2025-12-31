@@ -79,5 +79,5 @@ I’m a dedicated Full Stack Developer specializing in the **MERN stack**, skill
 ![Visitor Count](https://komarev.com/ghpvc/?username=imjoyhalder&color=blue&style=flat-square&label=VISITORS)
 
 <p align="center">
-  <b>Let's connect and build something amazing! 🚀🚀</b>
+  <b>Let's connect and build something amazing! 🚀🚀.</b>
 </p>
