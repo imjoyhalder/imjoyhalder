@@ -19,7 +19,7 @@
 
 
 
-I’m a dedicated Full Stack Developer specializing in the **MERN stack**, skilled in **React**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**, **Postgres**. I build scalable, secure, and high-performance applications using **Firebase**, **JWT**, **TypeScript**, **Tailwind CSS**, and **JavaScript**. With a solid foundation in **C++**, **Python**, and **DSA**, I write clean, efficient code and enjoy tackling complex technical challenges. I focus on creating robust backend systems, responsive interfaces, and real-time features with clean architecture. I’m always learning, exploring new technologies, and contributing to impactful projects to grow as a software engineer and deliver powerful, user-centric solutions.
+I’m a dedicated Full Stack Developer specializing in the **MERN stack**, skilled in **React**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**, **Postgres**. I build scalable, secure, and high-performance applications using **Firebase**, **JWT**, **TypeScript**, **Tailwind CSS**, and **JavaScript**. With a solid foundation in **C++**, **Python**, and **DSA**, I write clean, efficient code and enjoy tackling complex technical challenges. I focus on creating robust backend systems, responsive interfaces, and real-time features with clean architecture. I’m always learning, exploring new technologies, and contributing to impactful projects to grow as a software engineer and deliver powerful, user-centric solutions
 
 <h1 align="center">TECH STACK</h1>
 
