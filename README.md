@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1Sx29RGRZHFt-PPApBjAlCaGoaf75DI6E/view?usp=sharing" alt="Joy Halder Banner" width="100%" />
+  <img src="https://i.ibb.co.com/6R4XmBwB/Building-scalable-web-apps-design-5.png" alt="Joy Halder Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#e95420;">JOY HALDER</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
