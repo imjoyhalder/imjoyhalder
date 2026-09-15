@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hoodie-coder-banner-v2.gif" alt="A coder in a hoodie and headphones, with animated rain and monitor glow" width="100%" />
+</p>
+
 <h1 align="center">JOY HALDER</h1>
 
 <p align="center">
@@ -139,10 +143,10 @@ Algorithms, data structures, debugging, and choosing an approach that fits the p
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=imjoyhalder&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+      srcset="https://github-stats-extended.vercel.app/api?username=imjoyhalder&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=imjoyhalder&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA"
+      src="https://github-stats-extended.vercel.app/api?username=imjoyhalder&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA"
       alt="Joy Halder's GitHub statistics"
       width="49%"
     />
@@ -150,10 +154,10 @@ Algorithms, data structures, debugging, and choosing an approach that fits the p
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imjoyhalder&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=imjoyhalder&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjoyhalder&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=imjoyhalder&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F"
       alt="Languages used across public repositories"
       width="49%"
     />
