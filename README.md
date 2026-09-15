@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/imjoyhalder?tab=repositories">Explore my work</a>
-  &nbsp; / &nbsp;
-  <a href="https://leetcode.com/AB_JOY/">LeetCode</a>
-  &nbsp; / &nbsp;
-  <a href="https://codeforces.com/profile/JoyHalder">Codeforces</a>
-  &nbsp; / &nbsp;
-  <a href="https://www.hackerrank.com/profile/joyhalder0011331">HackerRank</a>
+  <a href="https://github.com/imjoyhalder?tab=repositories" title="Explore my work"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><img src="https://cdn.simpleicons.org/github/181717" alt="Explore my work" width="44" height="44" /></picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/AB_JOY/" title="LeetCode"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="44" height="44" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/JoyHalder" title="Codeforces"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" alt="Codeforces" width="44" height="44" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/joyhalder0011331" title="HackerRank"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="44" height="44" /></a>
 </p>
 
 <br />
@@ -58,7 +58,7 @@ Alongside building products, I practice **data structures and algorithms in C++ 
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="48" height="48" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/nuxt.svg" alt="Nuxt" title="Nuxt" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" title="Nuxt" width="48" height="48" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
   &nbsp;&nbsp;
@@ -97,7 +97,7 @@ Alongside building products, I practice **data structures and algorithms in C++ 
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="CI/CD with GitHub Actions" title="CI/CD · GitHub Actions" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="CI/CD with GitHub Actions" title="CI/CD · GitHub Actions" width="48" height="48" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48" />
   &nbsp;&nbsp;
