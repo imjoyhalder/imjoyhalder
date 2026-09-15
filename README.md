@@ -133,23 +133,6 @@ Algorithms, data structures, debugging, and choosing an approach that fits the p
 
 <br />
 
-### Practice & Problem Solving
-
-I use competitive programming to sharpen my reasoning and explore different approaches to a problem.
-
-<p>
-  <a href="https://leetcode.com/AB_JOY/"><strong>LeetCode</strong></a>
-  &nbsp; — &nbsp; AB_JOY
-  <br /><br />
-  <a href="https://codeforces.com/profile/JoyHalder"><strong>Codeforces</strong></a>
-  &nbsp; — &nbsp; JoyHalder
-  <br /><br />
-  <a href="https://www.hackerrank.com/profile/joyhalder0011331"><strong>HackerRank</strong></a>
-  &nbsp; — &nbsp; joyhalder0011331
-</p>
-
-<br />
-
 ### On GitHub
 
 <p align="center">
