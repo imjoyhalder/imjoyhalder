@@ -1,84 +1,188 @@
-<p align="center">
-  <img src="https://i.ibb.co.com/6R4XmBwB/Building-scalable-web-apps-design-5.png" alt="Joy Halder Banner" width="100%" />
-</p>
-
-<h1 align="center">Hi there, I'm <span style="color:#e95420;">JOY HALDER</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
-<h3 align="center">Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">JOY HALDER</h1>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/JoyHalder" target='_blank'>
-    <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg?style=for-the-badge&logo=codeforces&logoColor=white" width="50" alt="Codeforces"/>
-  </a>
-  <a href="https://leetcode.com/AB_JOY/">
-    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png?style=for-the-badge&logo=leetcode&logoColor=black" width="55" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/joyhalder0011331">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png?style=for-the-badge&logo=hackerrank&logoColor=white" width="55" alt="HackerRank"/>
-  </a>
-</p>
-
-
-
-I’m a dedicated Full Stack Developer specializing in the **MERN stack**, skilled in **React**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**, **Postgres**. I build scalable, secure, and high-performance applications using **Firebase**, **JWT**, **TypeScript**, **Tailwind CSS**, and **JavaScript**. With a solid foundation in **C++**, **Python**, and **DSA**, I write clean, efficient code and enjoy tackling complex technical challenges. I focus on creating robust backend systems, responsive interfaces, and real-time features with clean architecture. I’m always learning, exploring new technologies, and contributing to impactful projects to grow as a software engineer and deliver powerful, user-centric solutions
-
-<h1 align="center">TECH STACK</h1>
-
-<!-- Frontend -->
-<div>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux" height="45" />
-</p>
-</div>
-
-
-<!-- Backend -->
-<div>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" height="45" />
-</p>
-</div>
-
-
-<!-- Programming Languages -->
-<div>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts" height="45" />
-</p>
-</div>
-
-
-<!-- Tools & Others -->
-<div>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,netlify" height="45" />
-</p>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imjoyhalder&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjoyhalder&layout=compact&theme=dark" width="48%" />
+  <strong>Full-Stack Developer</strong>
   <br />
-<!--   <img src="https://streak-stats.demolab.com?user=imjoyhalder&theme=dark" width="80%" /> -->
-  <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=imjoyhalder&theme=radical" alt="GitHub Streak" style="display: inline-block; width: 90%;" />
-  </div>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imjoyhalder&theme=github-dark" />
-</div>
-
----
-## 🌐 Dynamic Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=imjoyhalder&color=blue&style=flat-square&label=VISITORS)
-
-<p align="center">
-  <b>Let's connect and build something amazing! 🚀🚀..</b>
+  Interfaces that make sense. Systems built to last.
 </p>
 
+<p align="center">
+  <a href="https://github.com/imjoyhalder?tab=repositories">Explore my work</a>
+  &nbsp; / &nbsp;
+  <a href="https://leetcode.com/AB_JOY/">LeetCode</a>
+  &nbsp; / &nbsp;
+  <a href="https://codeforces.com/profile/JoyHalder">Codeforces</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.hackerrank.com/profile/joyhalder0011331">HackerRank</a>
+</p>
+
+<br />
+
+### A little about me
+
+I’m Joy, a full-stack developer working across **TypeScript, frontend frameworks, and Node.js backends**. I enjoy taking an idea through the entire development process—from the interface and API to the database and deployment.
+
+My work centers on responsive applications, authentication, real-time features, and maintainable architecture. I also explore AI application development with **Mastra**, caching with **Redis**, and containerized workflows with **Docker**.
+
+Alongside building products, I practice **data structures and algorithms in C++ and Python**. I like understanding the reasoning behind a solution as much as making it work.
+
+<br />
+
+<h3 align="center">My Development Toolkit</h3>
+
+<p align="center">
+  Languages, frameworks, and tools I work with.
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" />
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" />
+    <img src="https://cdn.simpleicons.org/nextdotjs/111827" alt="Next.js" title="Next.js" width="48" height="48" />
+  </picture>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/nuxt.svg" alt="Nuxt" title="Nuxt" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/shadcn-ui_dark.svg" />
+    <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/shadcn-ui.svg" alt="shadcn/ui" title="shadcn/ui" width="48" height="48" />
+  </picture>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/reactquery.svg" alt="TanStack React Query" title="TanStack React Query" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="48" height="48" />
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/expressjs_dark.svg" />
+    <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/expressjs.svg" alt="Express.js" title="Express.js" width="48" height="48" />
+  </picture>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/hono.svg" alt="Hono" title="Hono" width="48" height="48" />
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/mastra-icon-dark.svg" />
+    <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/mastra-icon-light.svg" alt="Mastra" title="Mastra" width="48" height="48" />
+  </picture>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="CI/CD with GitHub Actions" title="CI/CD · GitHub Actions" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48" />
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" />
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub" width="48" height="48" />
+  </picture>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="48" height="48" />
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF" />
+    <img src="https://cdn.simpleicons.org/vercel/111827" alt="Vercel" title="Vercel" width="48" height="48" />
+  </picture>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" title="Netlify" width="48" height="48" />
+</p>
+
+<br />
+
+### Beyond the interface
+
+**Application development**  
+Component-driven interfaces, server-state management, APIs, authentication, and real-time interactions.
+
+**Data & infrastructure**  
+Relational and document databases, caching, containers, and automated delivery workflows.
+
+**Problem solving**  
+Algorithms, data structures, debugging, and choosing an approach that fits the problem.
+
+<br />
+
+### Practice & Problem Solving
+
+I use competitive programming to sharpen my reasoning and explore different approaches to a problem.
+
+<p>
+  <a href="https://leetcode.com/AB_JOY/"><strong>LeetCode</strong></a>
+  &nbsp; — &nbsp; AB_JOY
+  <br /><br />
+  <a href="https://codeforces.com/profile/JoyHalder"><strong>Codeforces</strong></a>
+  &nbsp; — &nbsp; JoyHalder
+  <br /><br />
+  <a href="https://www.hackerrank.com/profile/joyhalder0011331"><strong>HackerRank</strong></a>
+  &nbsp; — &nbsp; joyhalder0011331
+</p>
+
+<br />
+
+### On GitHub
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=imjoyhalder&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=imjoyhalder&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA"
+      alt="Joy Halder's GitHub statistics"
+      width="49%"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imjoyhalder&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjoyhalder&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F"
+      alt="Languages used across public repositories"
+      width="49%"
+    />
+  </picture>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>Always learning. Always building.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/imjoyhalder?tab=repositories">Take a look at my repositories →</a>
+</p>
