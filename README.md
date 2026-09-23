@@ -167,7 +167,7 @@ Algorithms, data structures, debugging, and choosing an approach that fits the p
 <br />
 
 <p align="center">
-  <strong>Always learning. Always building.</strong>
+  <strong>Always learning. Always building</strong>
 </p>
 
 <p align="center">
