@@ -133,7 +133,7 @@ Component-driven interfaces, server-state management, APIs, authentication, and 
 Relational and document databases, caching, containers, and automated delivery workflows.
 
 **Problem solving**  
-Algorithms, data structures, debugging, and choosing an approach that fits the problem.
+Algorithms, data structures, debugging, and choosing an approach that fits the problem
 
 <br />
 
